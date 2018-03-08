@@ -1,3 +1,3 @@
 # DeepLearning
 
-This is a repo of Deep Learning.
+This is a repository of Deep Learning practice from [Udacity](https://www.udacity.com/course/deep-learning--ud730).
